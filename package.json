@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-demo",
+  "version": "1.0.0",
+  "description": "vuepress demo",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuepress"
+  ],
+  "author": "errison",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/theme-vue": "^1.5.2",
+    "vuepress": "^1.5.2"
+  }
+}
