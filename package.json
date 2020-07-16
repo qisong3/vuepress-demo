@@ -14,6 +14,7 @@
   "author": "errison",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.0",
     "@vuepress/theme-vue": "^1.5.2",
     "vuepress": "^1.5.2"
   }
